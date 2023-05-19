@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/macbook/Documents/BITSchool/CourseWork/Stepken/Solutions/224232 group/Alexandr Mutev/src/lib",
+      "program": "/Users/macbook/Documents/BITSchool/CourseWork/Stepken/Solutions/224232 group/Alexandr Mutev/src/lib/build/Debug/outDebug"
+    }
+  ]
+}
